@@ -13,5 +13,10 @@ body{
     background: url('nmd.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
+}
 
+kutu{
+    margin: 0;
+    padding: 0;
+    
 }
